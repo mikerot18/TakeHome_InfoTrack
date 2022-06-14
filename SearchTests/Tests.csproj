@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TakeHome_FE\TakeHome_FE.csproj" />
+    <ProjectReference Include="..\TakeHome_FE\TakeHome.csproj" />
   </ItemGroup>
 
 </Project>

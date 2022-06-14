@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome_FE.csproj": {
-                "projectPath": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome_FE.csproj"
+              "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome.csproj": {
+                "projectPath": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome.csproj"
               }
             }
           }
@@ -86,12 +86,12 @@
         }
       }
     },
-    "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome_FE.csproj": {
+    "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome_FE.csproj",
-        "projectName": "TakeHome_FE",
-        "projectPath": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome_FE.csproj",
+        "projectUniqueName": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome.csproj",
+        "projectName": "TakeHome",
+        "projectPath": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\TakeHome.csproj",
         "packagesPath": "C:\\Users\\mrotenberg\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mrotenberg\\Desktop\\Side Projects\\InfoTrack\\TakeHome_FE\\TakeHome_FE\\obj\\",
         "projectStyle": "PackageReference",

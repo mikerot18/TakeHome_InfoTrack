@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHome_FE", "TakeHome_FE\TakeHome_FE.csproj", "{2CCAEB44-95B1-4857-958D-E708A76F45D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHome", "TakeHome_FE\TakeHome.csproj", "{2CCAEB44-95B1-4857-958D-E708A76F45D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "SearchTests\Tests.csproj", "{14B78E1E-9197-4C27-BA7D-C7CA86793BFA}"
 EndProject
